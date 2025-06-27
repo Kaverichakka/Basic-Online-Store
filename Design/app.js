@@ -145,19 +145,19 @@
             <h2 style="text-align:center;">Our Products</h2>
             <div style="display:grid; grid-template-columns: repeat(auto-fit,minmax(180px,1fr)); gap:1rem; margin-top:1rem;">
               <div style="border:1px solid #dee2e6; border-radius:4px; padding:16px; text-align:center;">
-                <img src="./assets/pexels-photo-298863.jpeg" alt="img2" style="height:150px; object-fit:contain; margin-bottom:8px;" />
+                <img src="https://media.istockphoto.com/id/504742864/photo/stylish-business-clothing-for-businessman.jpg?s=612x612&w=0&k=20&c=AsGrhEMNkmpwqaJPBSACPthMuBsmsDIecRkdFXKSnl0=" style="height:150px; object-fit:contain; margin-bottom:8px;" />
                 <h5>Men's Clothing</h5>
               </div>
               <div style="border:1px solid #dee2e6; border-radius:4px; padding:16px; text-align:center;">
-                <img src="./assets/pexels-photo-7679720.jpeg" alt="img"3 style="height:150px; object-fit:contain; margin-bottom:8px;" />
+                <img src="https://img.tatacliq.com/images/i16//437Wx649H/MP000000021635720_437Wx649H_202403211908471.jpeg"img"3 style="height:150px; object-fit:contain; margin-bottom:8px;" />
                 <h5>Women's Clothing</h5>
               </div>
               <div style="border:1px solid #dee2e6; border-radius:4px; padding:16px; text-align:center;">
-                <img src="./assets/pexels-photo-1927259.webp" alt="img4" style="height:150px; object-fit:contain; margin-bottom:8px;" />
+                <img src="https://www.shutterstock.com/image-photo/gold-jewellery-260nw-2547373303.jpg" alt="img4" style="height:150px; object-fit:contain; margin-bottom:8px;" />
                 <h5>Jewelery</h5>            
               </div>
               <div style="border:1px solid #dee2e6; border-radius:4px; padding:16px; text-align:center;">
-                <img src="./assets/pexels-photo-356056.jpeg" alt="img5" style="height:150px; object-fit:contain; margin-bottom:8px;" />
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRth4FHgoxD8tpLsEIoE4wqq_hUaSa40dnqwg&s" alt="img5" style="height:150px; object-fit:contain; margin-bottom:8px;" />
                 <h5>Electronics</h5>
               </div>
             </div>
